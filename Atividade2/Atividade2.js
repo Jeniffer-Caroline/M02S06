@@ -11,3 +11,4 @@ async function funcaoExPromise(){
     console.log(msg);
 }
 funcaoExPromise();
+
